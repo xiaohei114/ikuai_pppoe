@@ -1,0 +1,25 @@
+{
+    "ikuai_ip": "192.168.2.250",
+    "user": {
+        "username": "admin",
+        "password": "a12345"
+    },
+    "broadband": [
+        {
+            "account": "null", 
+            "password": "null"
+        }, 
+        {
+            "account": "null", 
+            "password": "null"
+        },
+        {
+            "account": "null", 
+            "password": "null"
+        }, 
+        {
+            "account": "null", 
+            "password": "null"
+        }
+    ]
+}
