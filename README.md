@@ -22,6 +22,8 @@
 
 ```bash
 git clone https://github.com/xiaohei114/ikuai_pppoe.git
+cd ikuai_pppoe
+# 修改配置文件
 python core.py
 ```
 
