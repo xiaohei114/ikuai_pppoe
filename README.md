@@ -6,7 +6,7 @@
 
 说明：使用ikuai作为拨号基础和验证基础，因为win和linux没有好用的现成的拨号工具，用ikuai简单方便一点。  
 
-  
+​    
 
 使用：只需要修改`user_info.json`就可以了
 
@@ -16,7 +16,7 @@ user 里面的两个字段分别是登录 ikuai 的账户和密码，
 
 broadband 里面是需要拨号的宽带的账户和密码，account是账号，password是密码。
 
-  
+​    
 
 未来：
 
