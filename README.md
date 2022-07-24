@@ -8,13 +8,22 @@
 
 ​    
 
-使用：只需要修改`user_info.json`就可以了
+配置：  
 
-ikuai_ip 就是 ikuai 的 ip 地址，  
+只需要修改`user_info.json`就可以了。
 
-user 里面的两个字段分别是登录 ikuai 的账户和密码，  
+> ikuai_ip 就是 ikuai 的 ip 地址，  
+>
+> user 里面的两个字段分别是登录 ikuai 的账户和密码，  
+>
+> broadband 里面是需要拨号的宽带的账户和密码，account是账号，password是密码。
 
-broadband 里面是需要拨号的宽带的账户和密码，account是账号，password是密码。
+运行：  
+
+```bash
+git clone https://github.com/xiaohei114/ikuai_pppoe.git
+python core.py
+```
 
 ​    
 
