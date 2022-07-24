@@ -3,21 +3,15 @@
 
 解决的问题：手上可以拨号的账号太多，不知道哪些可以用，可以使用此项目批量验证。
 
-
-
-
+  
 
 说明：使用ikuai作为拨号基础和验证基础，因为win和linux没有好用的现成的拨号工具，用ikuai简单方便一点。
 
+  
 
+使用：只需要修改`user_info.json`就可以了，ikuai_ip就是ikuai的ip地址
 
-使用：
-
-只需要修改`user_info.json`就可以了，ikuai_ip就是ikuai的ip地址
-
-
-
-
+  
 
 未来：
 
